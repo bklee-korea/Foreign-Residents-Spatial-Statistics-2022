@@ -13,7 +13,7 @@ The Jupyter notebook `데이터전처리(총조사shp과 행안부 외국인주�
 - pandas
 - geopandas
 
-## Input Data (included in repository)
+## Input Data (not included in repository)
 - 2022년 외국인인구.csv
 - 20224Q읍면동경계_2022_총조사총인구.shp
 
