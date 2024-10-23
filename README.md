@@ -15,7 +15,7 @@ The Jupyter notebook `데이터전처리(총조사shp과 행안부 외국인주�
 
 ## Data Access
 The data files are available on Figshare due to size limitations of GitHub:
-- [Foreign Residents Spatial Statistics 2022 Data](10.6084/m9.figshare.27281310)
+[Download data from Figshare](https://doi.org/10.6084/m9.figshare.27281310)
 
 Required files:
 1. Foreign Population Data (2022년 외국인인구.csv)
